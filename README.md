@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/Her
 <br />
 <br />
-(https://komarev.com/ghpvc/?username=vishakha-driscolls)
+https://komarev.com/ghpvc/?username=vishakha-driscolls
 <br/>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
