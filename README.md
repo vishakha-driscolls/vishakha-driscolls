@@ -7,4 +7,4 @@
 - :woman_student:Masters of Computer Science
 - 💬 Ask me about:  HTML,CSS,JS,React, Tailwind CSS, Gatsby Js
 - 😄 Pronouns: She/Her
-https://github.com/vishakha-driscolls/vishakha-driscolls/blob/main/README.md
+
